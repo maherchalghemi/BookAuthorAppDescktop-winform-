@@ -1,0 +1,14 @@
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\DAL.dll.config
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\DAL.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\DAL.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\EntityFramework.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\MySql.Data.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\EntityFramework.xml
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\obj\Debug\DAL.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\obj\Debug\DAL.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\obj\Debug\DAL.Migrations.init.resources
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\maho\Documents\Visual Studio 2013\Projects\BookAuthor\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

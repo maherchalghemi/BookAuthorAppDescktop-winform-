@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DAL.Model.Auteur>
+
+@{
+    ViewBag.Title = "GetAll";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetAll</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AuteurId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomAuteur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.prenomAuteur)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuteurId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomAuteur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.prenomAuteur)
+            </td>
+
+        </tr>
+    }
+
+</table>
